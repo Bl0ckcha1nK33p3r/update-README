@@ -1,0 +1,11 @@
+name: Test Cron Schedule
+
+on:
+  schedule:
+    - cron: "58 13 * * *"
+
+jobs:
+  test-cron:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Cron job ran successfully!"
