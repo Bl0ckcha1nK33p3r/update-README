@@ -1,4 +1,4 @@
-### Hi there 👋
+module.exports = `### Hi there 👋
 
 ## Salut tous le monde! Je m'appelle Alexis Mosquera !
 
@@ -33,6 +33,7 @@
 - [Mail](mailto:esalexismosquera@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/alexis-mosquera/)
 
-**154 day before 2025 ⏱**
+<#day_before_new_years>
 
-🤖 This README.md is updated with pleasure, by Bl0ckcha1nK33p3r ❤️
+<#gabot_signing>
+`;
