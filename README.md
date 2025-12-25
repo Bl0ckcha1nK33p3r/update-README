@@ -33,6 +33,6 @@
 - [Mail](mailto:esalexismosquera@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/alexis-mosquera/)
 
-**7 day before 2026 ⏱**
+**6 day before 2026 ⏱**
 
-🤖 This README.md is updated with wickedness, by Bl0ckcha1nK33p3r ❤️
+🤖 This README.md is updated with cruelty, by Bl0ckcha1nK33p3r ❤️
